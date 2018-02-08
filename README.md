@@ -5,6 +5,8 @@ A neural network implementation built with Python, NumPy and Matplotlib. Here ar
 
 - Digit classification (from MNIST dataset)
 
+![Demo CountPages alpha](https://j.gifs.com/9QX35z.gif)
+
 - Cartpole task
 
 ![Demo CountPages alpha](https://j.gifs.com/yrkp3R.gif)
