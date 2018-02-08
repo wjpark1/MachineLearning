@@ -7,7 +7,7 @@ A neural network implementation built with Python, NumPy and Matplotlib. Here ar
 
 - Cartpole task
 
-![Demo CountPages alpha](https://j.gifs.com/oQJAzk.gif)
+![Demo CountPages alpha](https://j.gifs.com/yrkp3R.gif)
 
 
 - Language identification
