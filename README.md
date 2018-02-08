@@ -1,5 +1,5 @@
 # MachineLearning
-This is a project that I built while taking COMPSCI 189: Introduction to Machine Learning, at Berkeley. Its files include a standalone perceptron implementation, a mini-library for constructing and training neural networks, and neural network models for a variety of applications. The result is a neural network that can solve various tasks (see 'Features')
+This is a project that I built while taking COMPSCI 189: Introduction to Machine Learning, at Berkeley. Its files include a standalone perceptron implementation, a mini-library for constructing and training neural networks, and neural network models for a variety of applications. The net result is a neural network that can solve various tasks (see 'Features').
 
 ## Technology
 This project was built from scratch with Python, NumPy and Matplotlib. It does not use popular ML frameworks like TensorFlow or Keras. 
@@ -29,3 +29,6 @@ If you'd like to try it out from your end, please do the following:
 
 ## Thank You!
 Hopefully, everything goes well. If you have any questions or comments, feel free to email me at wjpark@berkeley.edu! 
+
+## Credits
+Brendan Tang
