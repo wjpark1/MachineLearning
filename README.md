@@ -1,23 +1,23 @@
 # MachineLearning
-This is a project that I built while taking COMPSCI 189: Introduction to Machine Learning, at Berkeley. Its files include a standalone perceptron implementation, a mini-library for constructing and training neural networks, and neural network models for a variety of applications. The net result is a neural network that can solve various tasks (see 'Features').
+This is a project that I built while taking COMPSCI 189: Introduction to Machine Learning, at Berkeley. Its files include a standalone perceptron implementation (perceptron.py), a mini-library for constructing and training neural networks (nn.py), and neural network models for a variety of applications (models.py). The net result is a neural network that can solve various tasks (see 'Features').
 
 ## Technology
-This project was built from scratch with Python, NumPy and Matplotlib. It does not use popular ML frameworks or libraries like TensorFlow or Keras. 
+This project was built with Python, NumPy and Matplotlib. It does not use ML frameworks like TensorFlow or Keras. 
 
 ## Features
-- Sin(x) approximation
+- Sin(x) Approximation
 
 ![Demo CountPages alpha](https://j.gifs.com/APO839.gif)
 
-- Digit classification (from MNIST dataset)
+- Digit Classification (from MNIST dataset)
 
 ![Demo CountPages alpha](https://j.gifs.com/9QX35z.gif)
 
-- Cartpole task
+- Cartpole Task
 
 ![Demo CountPages alpha](https://j.gifs.com/Q0LA4G.gif)
 
-- Language identification (click on the GIF for actual video)
+- Language Identification (click on the GIF for actual video)
 
 [![Demo CountPages alpha](https://j.gifs.com/KZEAJx.gif)](https://youtu.be/6YuY3csOcMA)
 
