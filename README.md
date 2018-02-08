@@ -25,7 +25,7 @@ This project was built with Python, NumPy and Matplotlib. It does not use ML fra
 If you'd like to try it out, please do the following:
 1) Clone the repo into a local directory 
 2) Download [Python 2](https://www.python.org/download/releases/2.7.8/), [NumPy](https://docs.scipy.org/doc/numpy-1.13.0/user/install.html), and [Matplotlib](https://matplotlib.org/users/installing.html)
-3) Run 'pythonw autograder.py' in Terminal from the project directory
+3) Run 'python autograder.py' in Terminal from the project directory
 
 ## Thank You!
 Hopefully, everything goes well. If you have any questions or comments, feel free to email me at wjpark@berkeley.edu! 
