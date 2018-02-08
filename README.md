@@ -18,9 +18,9 @@ This is a neural network implementation built with Python, NumPy and Matplotlib.
 [![Demo CountPages alpha](https://j.gifs.com/KZEAJx.gif)](https://youtu.be/6YuY3csOcMA)
 
 # Download
-If you'd like to try it out from your end, please do the following instructions:
-1) Fork it 
+If you'd like to try it out from your end, please do the following:
+1) Clone the repo into a local directory 
 2) Download Python (as a framework), NumPy, and Matplotlib
 3) Run 'pythonw autograder.py' in Terminal from the project directory
 
-If you have any questions or comments, please feel free to email me at wjpark@berkeley.edu. Thanks!
+If you have any questions or comments, feel free to email me at wjpark@berkeley.edu. Thanks!
