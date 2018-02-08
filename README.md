@@ -13,9 +13,9 @@ This is a neural network implementation built with Python, NumPy and Matplotlib.
 
 ![Demo CountPages alpha](https://j.gifs.com/Q0LA4G.gif)
 
-- Language identification
+- Language identification (click on the GIF for better quality)
 
-![Demo CountPages alpha](https://j.gifs.com/KZEAJx.gif)
+[![Demo CountPages alpha](https://j.gifs.com/KZEAJx.gif)](https://youtu.be/6YuY3csOcMA)
 
 # Download
 If you'd like to try it out from your end, please do the following instructions:
