@@ -3,7 +3,7 @@ A neural network implementation built with Python, NumPy and Matplotlib. Here ar
 
 - Sin(x) approximation
 
-![Demo CountPages alpha](https://j.gifs.com/9QX35z.gif)
+![Demo CountPages alpha](https://j.gifs.com/APO839.gif)
 
 - Digit classification (from MNIST dataset)
 
