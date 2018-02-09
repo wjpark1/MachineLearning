@@ -1,7 +1,7 @@
 # MachineLearning
 This is a project that I built while taking a machine learning class at Berkeley (COMPSCI 189: Introduction to Machine Learning). Its files include a standalone perceptron implementation (perceptron.py), a mini-library for constructing and training neural networks (nn.py), and neural network models for a variety of applications (models.py). The net result is a neural network that can solve various tasks (see 'Features').
 
-From a high level perspective, the project involved writing a perceptron algorithm and building a framework for building and training computation graphs. This framework was then applied to various applications like regression (Sin(x) Approximation), sequence tasks (Digit Classification/Language Identification) and deep Q-learning (Cartpole Task). 
+From a high level perspective, the project involved writing a perceptron algorithm and building a framework for building and training computation graphs. This framework was then used for various applications like regression (Sin(x) Approximation), sequence tasks (Digit Classification/Language Identification) and deep Q-learning (Cartpole Task). 
 
 ## Technology
 This project was built with Python, NumPy and Matplotlib. It does not use ML frameworks like TensorFlow or Keras. 
@@ -21,7 +21,7 @@ This project was built with Python, NumPy and Matplotlib. It does not use ML fra
 
 - Language Identification (click on the GIF for actual video)
 
-[![Demo CountPages alpha](https://j.gifs.com/KZEAJx.gif)](https://youtu.be/6YuY3csOcMA)
+[![Demo CountPages alpha](https://j.gifs.com/KZEAJx.gif)](https://youtu.be/xbInUCg2tbU)
 
 ## Installation
 If you'd like to try it out, please do the following:
