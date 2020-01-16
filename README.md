@@ -30,7 +30,7 @@ If you'd like to try it out, please do the following:
 3) Run 'python autograder.py' in Terminal from the project directory
 
 ## Thank You!
-Hopefully, everything goes well. If you have any questions or comments, feel free to email me at wjpark@berkeley.edu! 
+Hopefully, everything goes well. If you have any questions or comments, feel free to email me at willpark16@gmail.com 
 
 ## Credits
 Brendan Tang
